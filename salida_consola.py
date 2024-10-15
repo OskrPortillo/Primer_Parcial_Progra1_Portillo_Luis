@@ -1,5 +1,10 @@
 
 def mostrar_menu():
+    """
+    Funcion que me muestra el menu como cadenas de string:
+    
+    """
+
     opciones = \
     """
     1 - Obtener Existencias
